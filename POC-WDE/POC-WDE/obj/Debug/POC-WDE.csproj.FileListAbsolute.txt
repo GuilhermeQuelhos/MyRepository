@@ -1,0 +1,16 @@
+C:\Projects_VS2012\POC-WDE\POC-WDE\bin\Debug\POC-WDE.exe.config
+C:\Projects_VS2012\POC-WDE\POC-WDE\bin\Debug\POC-WDE.exe
+C:\Projects_VS2012\POC-WDE\POC-WDE\bin\Debug\POC-WDE.pdb
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.csprojResolveAssemblyReference.cache
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\MainWindow.baml
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\MainWindow.g.cs
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\App.g.cs
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE_MarkupCompile.cache
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.g.resources
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC_WDE.Properties.Resources.resources
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.csproj.GenerateResource.Cache
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.exe
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.pdb
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\Interop.SHDocVw.dll
+C:\Projects_VS2012\POC-WDE\POC-WDE\obj\Debug\POC-WDE.csproj.ResolveComReference.cache
+C:\Projects_VS2012\POC-WDE\POC-WDE\bin\Debug\Interop.SHDocVw.dll
